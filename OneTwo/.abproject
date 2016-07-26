@@ -1,0 +1,45 @@
+{
+  "ProjectName": "OneTwo",
+  "ProjectGuid": "7dbc6c6c-7349-4096-abe3-77610534db0e",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.OneTwo",
+  "DisplayName": "OneTwo",
+  "Author": "",
+  "Description": "OneTwo",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "4.0.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{a31e1238-be84-4e78-97c6-84a8f362d038}",
+  "WP8ProductID": "{211f3bec-1851-44e9-b9f6-e9ab85d7f8b7}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.OneTwo",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
